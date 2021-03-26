@@ -1,0 +1,5 @@
+# Project exclude paths
+/first-agent/target/
+/first-app/target/
+/hack-agent/target/
+/verifier-app/target/
